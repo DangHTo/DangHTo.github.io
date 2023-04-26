@@ -17,9 +17,16 @@ Very simple weather app that I created to test my skills in android development.
 
 [Check Out WeatherApp Here]
 
-### Digital Music Player APP
+### Digital Music Player(Android)
 
 A music player made in android studio with the Kotlin language.  Has a couple of songs and a couple of sound effects which you can choose to place anywhere in the song.  Kind of like a customizer of sorts.  Features to import sound effects and music will be added soon.
 
 [Digital Music Player Here](https://github.com/DangHTo/DigitalMusicPlayer)
+
+### Password Cracker(Python)
+
+Uses a user-supplied file which contains keywords that would be used in a password.  From then, uses a dictionary based attack which tries to crack a password.  Also tests how much time the SHA256 and SHA512 hashing algorithms slow down the process with the use of Python graphs.  
+
+[Password Cracker Here](https://github.com/DangHTo/PasswordCracker/tree/main/src/PasswordFinder)
+
 

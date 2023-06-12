@@ -47,7 +47,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                Valleyfield. <br />
+                Valleyfield <br />
                 Virginia, VA 22153
               </p>
             </div>

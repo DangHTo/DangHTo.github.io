@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
+    "gh-pages": "^5.0.0",
     "postcss": "^8.1.4",
     "postcss-flexbugs-fixes": "^5.0.2",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"

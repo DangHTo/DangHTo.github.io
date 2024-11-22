@@ -22,7 +22,7 @@ export default function Contact() {
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", name, email, message }),
     })
-      .then(() => alert("Message Failed to send, please send email regularly.  Error code 02"))
+      .then(() => alert("Message Failed to send, please send email regularly.  Error code 500"))
       .catch((error) => alert(error));
   }
 
